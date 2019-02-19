@@ -144,10 +144,6 @@ app.post('/usuario', [verificaToken, verificaAdmin_Role], (req, res) => {
     });
 
 
-
-
-
-
   });
 
 
